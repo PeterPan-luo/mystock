@@ -1,0 +1,15 @@
+/target/
+/bin/
+/build/
+/doc/
+/lib/
+/log/
+/release/
+/.settings/
+/.classpath
+/.project
+*.svn/
+*/.svn/
+*/lib/
+*/classes/
+_desktop.ini
